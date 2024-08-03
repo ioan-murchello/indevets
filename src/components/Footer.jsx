@@ -68,6 +68,9 @@ const Footer = () => {
       </div>
 
       <span>&copy; Indevets 2024</span>
+      <span>
+        Some images from <a href='https://www.freepik.com'>Freepik</a>
+      </span>
     </footer>
   );
 };
