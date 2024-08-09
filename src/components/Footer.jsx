@@ -1,4 +1,4 @@
-import dog from '../assets/speacking_dog.svg'
+import dog from '../assets/speacking_dog.svg';
 
 const Footer = () => {
   return (
@@ -68,8 +68,9 @@ const Footer = () => {
       </div>
 
       <span>&copy; Indevets 2024</span>
+      <br />
       <span>
-        Some images from <a href='https://www.freepik.com'>Freepik</a>
+        Some images from <a className='underline text-blue-400' href='https://www.freepik.com'>Freepik</a>
       </span>
     </footer>
   );

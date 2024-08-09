@@ -10,7 +10,7 @@ const HowItWorks = () => {
       </span>
       <h3 className='text-3xl sm:text-5xl text-[var(--title)]'>How IndeVets Works</h3>
 
-      <div className='flex flex-col md:flsm:ex-row gap-y-9 gap-x-9 justify-between items-center mt-12 sm:mt-40'>
+      <div className='flex flex-col md:flex-row gap-y-9 gap-x-9 justify-between items-center mt-12 sm:mt-40'>
         <img className='w-64 h-64 sm:w-80 sm:h-80' src={nature} alt='nature' />
         <div className='flex flex-col gap-y-4'>
           <span className='text-xl text-[#798B56]'>Step one...</span>
